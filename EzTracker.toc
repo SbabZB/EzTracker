@@ -1,0 +1,6 @@
+## Interface: 110100
+## Title: EzTracker
+## Author: Sbab
+## Version: 0.1
+## Notes: A simple quest tracking addon
+EzTracker.lua
